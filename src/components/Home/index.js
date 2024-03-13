@@ -38,7 +38,7 @@ const Home = () => {
                 <span className={`${letterClass} _26`}>.</span>
                 </h1>
                 <h2>Software Engineer</h2>
-                <Link to="./contact" className='flat-button'>CONTACT ME</Link>
+                <Link to="contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <div className="profile">
                 <img src={ProfilePic} alt="profile-pic" /> 
