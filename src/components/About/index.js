@@ -34,7 +34,8 @@ const About = () => {
                     and shaping the future of technology.
                 </p>
                 <p>
-                    With 6 years of hands-on experience in Python, I've cultivated a deep 
+                    With 6 years of hands-on experience in&nbsp;
+                    <span class="tech-tag">Python</span>&nbsp;I've cultivated a deep 
                     expertise in crafting robust and scalable solutions. But that's just the 
                     tip of the iceberg - my journey also delves into the realms of front-end 
                     development, where I navigate the seas of&nbsp;
